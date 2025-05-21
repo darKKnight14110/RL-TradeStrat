@@ -1,4 +1,4 @@
-# 🧠 Deep Q-Learning for Stock Trading  
+# 🧠 Reinforcement Learning Based Stock Trading  
 > *“Markets are puzzles. Reinforcement learning is our scalpel.”*  
 > — A Quant
 
