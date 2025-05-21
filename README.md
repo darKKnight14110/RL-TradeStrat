@@ -66,3 +66,5 @@ These systems are a step beyond traditional finance techniques:
 - Realistic with inclusion of trading costs and risk management
 
 From timing single-stock trades to balancing portfolios across assets, this repository showcases how reinforcement learning can drive **next-generation investment systems**.
+
+> 🔍 Inspired by the O'Reilly book *Machine Learning and Data Science Blueprints for Finance*.
